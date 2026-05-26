@@ -1,0 +1,548 @@
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 0, "tid": 1, "ts": 1779830188247385, "dur": 2210975, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1779830188247608, "dur": 9774, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1779830188257385, "dur": 32016, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1779830188289404, "dur": 800833, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1779830189090239, "dur": 1354992, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1779830190445233, "dur": 13126, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1779830190459285, "dur": 11, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
+{ "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 35942, "tid": 1, "ts": 1779830188914948, "dur": 149446, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1779830188915901, "dur": 40318, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1779830189047467, "dur": 4082, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1779830189051552, "dur": 12835, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1779830189052134, "dur": 11469, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1779830189068658, "dur": 1128, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1779830189067976, "dur": 1828, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1779830190459394, "dur": 228, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1779830189126176, "dur":1362, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830189127544, "dur":43, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1779830189127598, "dur":14, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1779830189127612, "dur":502, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1779830189128153, "dur":524, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830189128677, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427125, "dur":315, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427441, "dur":37, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427478, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427480, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427491, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427494, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427506, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427508, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427515, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427518, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427527, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427529, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427538, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427540, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427547, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427549, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427559, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427561, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427567, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427569, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427579, "dur":31, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427610, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427618, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427620, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427629, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427638, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190427666, "dur":1395, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1779830189128359, "dur":329, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189128695, "dur":4329, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189133034, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1779830189133040, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189134651, "dur":344, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1779830189135000, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1779830189135022, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189135441, "dur":2353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1779830189137798, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1779830189137986, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189139213, "dur":2053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1779830189141330, "dur":15510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1779830189156845, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189156856, "dur":2468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1779830189159436, "dur":75297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189234740, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189234749, "dur":2327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189237099, "dur":30269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189267373, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189267384, "dur":1428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189268831, "dur":34614, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189303453, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189303465, "dur":1516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189305004, "dur":110381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189415388, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189415395, "dur":8982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189424408, "dur":51818, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189476232, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189476278, "dur":1587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189477889, "dur":53001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189530895, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189530906, "dur":3266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189534192, "dur":49897, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189584095, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189584359, "dur":9584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189593965, "dur":64136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189658105, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189658669, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189660144, "dur":1571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189661722, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189661732, "dur":4450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189666203, "dur":58831, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189725041, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189725054, "dur":2294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189727368, "dur":124533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189851908, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830189851920, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830189853455, "dur":325147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830190178607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830190178615, "dur":1658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1779830190180299, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1779830190180318, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1779830190180326, "dur":2837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1779830190183180, "dur":243967, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189128393, "dur":314, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189128707, "dur":4318, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189133036, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1779830189133329, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189150308, "dur":5566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1779830189155947, "dur":41251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189197205, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189197371, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189198864, "dur":58278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189257150, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189257161, "dur":2203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189259390, "dur":230535, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189489932, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189489943, "dur":3301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189493267, "dur":86933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189580203, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189580209, "dur":1666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189581901, "dur":68699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189650608, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189650618, "dur":4079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189654722, "dur":102011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189756739, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830189756746, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830189758361, "dur":268934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830190027302, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830190027314, "dur":6951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830190034286, "dur":338490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830190372781, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1779830190372789, "dur":3663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1779830190376467, "dur":50685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189128498, "dur":236, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189128734, "dur":4291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189133034, "dur":51819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1779830189184860, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189185412, "dur":4320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1779830189189793, "dur":44321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189234120, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189234128, "dur":2695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189236846, "dur":123077, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189359930, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189359941, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189361882, "dur":72839, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189434769, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189434781, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189436506, "dur":66184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189502696, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189502706, "dur":1820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189504548, "dur":42304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189546859, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189546869, "dur":14018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189560906, "dur":39987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189600899, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189600911, "dur":1448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189602380, "dur":77688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189680074, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189680086, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189681607, "dur":163229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189844840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189844846, "dur":2900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189847762, "dur":86242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189934010, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830189934020, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830189935421, "dur":341509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830190276936, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1779830190276946, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1779830190278446, "dur":148704, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189128370, "dur":328, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189128698, "dur":4330, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189133036, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1779830189133287, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189145289, "dur":5046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1779830189150400, "dur":54985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up.exe" }}
+,{ "pid":12345, "tid":4, "ts":1779830189205391, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189205400, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up.exe" }}
+,{ "pid":12345, "tid":4, "ts":1779830189207564, "dur":57415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189264986, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189264998, "dur":2932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189267949, "dur":258912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189526867, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189526879, "dur":5775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189532680, "dur":46364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189579050, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189579062, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189580610, "dur":81151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189661764, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189661770, "dur":1583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189663371, "dur":180934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189844312, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830189844324, "dur":2522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830189846869, "dur":171624, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830190018500, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830190018511, "dur":4149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830190022683, "dur":54063, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830190076752, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830190076762, "dur":54210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830190130996, "dur":46600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/CFXRDemo.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830190177600, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830190177607, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/CFXRDemo.dll" }}
+,{ "pid":12345, "tid":4, "ts":1779830190179143, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1779830190179159, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1779830190179163, "dur":3863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1779830190183045, "dur":244074, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189128450, "dur":267, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189128718, "dur":4320, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189133044, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1779830189133233, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189137489, "dur":3353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1779830189140942, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1779830189141115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189141289, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1779830189143476, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1779830189143777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189143784, "dur":2476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1779830189146311, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1779830189146442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189146447, "dur":3541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1779830189150053, "dur":12505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1779830189162564, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189162573, "dur":4900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1779830189167544, "dur":69672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830189237220, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189237229, "dur":1782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830189239032, "dur":182167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830189421203, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189421212, "dur":4138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830189425368, "dur":68298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830189493670, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189493679, "dur":1595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830189495293, "dur":260916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830189756216, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830189756227, "dur":1985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830189758230, "dur":309207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830190067444, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830190067467, "dur":1864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830190069350, "dur":246430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830190315787, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1779830190315821, "dur":1836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1779830190317678, "dur":109471, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189128487, "dur":240, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189128727, "dur":4299, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189133036, "dur":13879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1779830189146918, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189147314, "dur":5041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1779830189152410, "dur":120853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189273310, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189273323, "dur":2152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189275503, "dur":125870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189401380, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189401393, "dur":3135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189404558, "dur":54413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189458977, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189458987, "dur":1632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189460637, "dur":68874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189529518, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189529532, "dur":4385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189533939, "dur":49257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189583199, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189583211, "dur":1665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189584951, "dur":303416, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189888375, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830189888386, "dur":23244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830189911653, "dur":274381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830190186039, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1779830190186051, "dur":3866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1779830190189941, "dur":237185, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189128533, "dur":206, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189128739, "dur":4297, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189133037, "dur":13741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1779830189146782, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189146795, "dur":1878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1779830189148734, "dur":11911, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189160651, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189162104, "dur":6848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189169017, "dur":77332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189246357, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189246405, "dur":2331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189248751, "dur":55783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189304541, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189304551, "dur":3095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189307678, "dur":33296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189340981, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189340991, "dur":2577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189343591, "dur":113859, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189457457, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189457468, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189460632, "dur":71828, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189532463, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189532471, "dur":4688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189537177, "dur":46035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189583218, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189583229, "dur":1664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189584948, "dur":66335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189651288, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830189651296, "dur":7265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830189658578, "dur":378228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830190036813, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830190036825, "dur":9873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830190046720, "dur":82821, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/KinoBloom.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830190129546, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830190129554, "dur":15065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/KinoBloom.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830190144640, "dur":132879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830190277522, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1779830190277528, "dur":1199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1779830190278739, "dur":148392, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189128575, "dur":169, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189128744, "dur":4287, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189133035, "dur":350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1779830189133388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189147142, "dur":6604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1779830189153831, "dur":35838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189189677, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189190139, "dur":1313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189191475, "dur":223454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189414933, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189414941, "dur":6235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189421199, "dur":56001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189477206, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189477217, "dur":6236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189483475, "dur":48656, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189532137, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189532147, "dur":6346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189538514, "dur":151864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189690385, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830189690396, "dur":3171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830189693588, "dur":377081, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830190070676, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830190070687, "dur":3370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830190074080, "dur":90489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/CFXRRuntime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830190164576, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830190164588, "dur":3165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/CFXRRuntime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1779830190167772, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1779830190167791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830190167799, "dur":3398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1779830190171215, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1779830190171447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830190171455, "dur":3000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1779830190174478, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1779830190174495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830190174503, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1779830190176758, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1779830190176776, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830190176782, "dur":2089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1779830190178890, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1779830190178906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830190178912, "dur":2268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1779830190181199, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1779830190181215, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1779830190181222, "dur":2066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1779830190183306, "dur":243815, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189128616, "dur":134, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189128751, "dur":4281, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189133034, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1779830189133230, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189137946, "dur":2670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1779830189140692, "dur":15015, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1779830189155714, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189155726, "dur":1572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1779830189157353, "dur":75649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189233008, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189233019, "dur":1526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189234565, "dur":33431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189267999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189268006, "dur":14800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189282829, "dur":93584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189376421, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189376432, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189377966, "dur":35987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189413959, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189413969, "dur":2619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189416608, "dur":61387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189478001, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189478010, "dur":5789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189483820, "dur":35282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189519108, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189519119, "dur":1831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189520973, "dur":39469, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189560625, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189560637, "dur":6025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189566685, "dur":63489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189630181, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189630191, "dur":1510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189631721, "dur":164847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189796574, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189796585, "dur":1677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189798281, "dur":93374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189891662, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830189891707, "dur":4337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830189896067, "dur":393524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830190289597, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1779830190289606, "dur":2834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1779830190292462, "dur":134668, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189128648, "dur":109, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189128757, "dur":4285, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189133042, "dur":14069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1779830189147118, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189147137, "dur":2780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1779830189150000, "dur":222109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189372116, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189372125, "dur":21216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189393397, "dur":48397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189441800, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189441814, "dur":15406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189457245, "dur":41617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189498870, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189498883, "dur":1524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189500429, "dur":44190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189544628, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189544640, "dur":10784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189555448, "dur":47212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189602663, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189602672, "dur":8929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189611670, "dur":129439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189741116, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189741127, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189743237, "dur":186147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189929390, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830189929400, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830189930955, "dur":216669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830190147665, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830190147676, "dur":2291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1779830190149989, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1779830190150006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830190150063, "dur":5888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1779830190155978, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":10, "ts":1779830190155995, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830190156002, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":10, "ts":1779830190158462, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1779830190158479, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830190158487, "dur":7302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1779830190165810, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1779830190165826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830190165832, "dur":2853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1779830190168706, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1779830190168724, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830190168730, "dur":3480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1779830190172236, "dur":10619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1779830190182861, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1779830190182896, "dur":1533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1779830190184451, "dur":242672, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189128671, "dur":91, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189128762, "dur":4285, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189133047, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1779830189133278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189143526, "dur":2635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1779830189146226, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1779830189146396, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189146402, "dur":2912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1779830189149377, "dur":61160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189210541, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189210638, "dur":5962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189216662, "dur":30408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189247076, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189247086, "dur":1589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189248695, "dur":45349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189294051, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189294062, "dur":4840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189298927, "dur":228428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189527361, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189527371, "dur":5342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189532732, "dur":118712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189651448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189651454, "dur":6587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189658066, "dur":133322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189791394, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189791404, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189793057, "dur":133531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189926594, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830189926605, "dur":1670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830189928296, "dur":200659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830190128961, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830190128972, "dur":37574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1779830190166567, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1779830190166587, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830190166596, "dur":3867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1779830190170489, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1779830190170508, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830190170518, "dur":1826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1779830190172362, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1779830190172380, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830190172386, "dur":2843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1779830190175248, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level2.resS" }}
+,{ "pid":12345, "tid":11, "ts":1779830190175263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830190175269, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level2.resS" }}
+,{ "pid":12345, "tid":11, "ts":1779830190177064, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1779830190177078, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830190177083, "dur":1784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1779830190178890, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level1" }}
+,{ "pid":12345, "tid":11, "ts":1779830190178906, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830190178913, "dur":3162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/level1" }}
+,{ "pid":12345, "tid":11, "ts":1779830190182113, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/boot.config" }}
+,{ "pid":12345, "tid":11, "ts":1779830190182344, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1779830190182351, "dur":1944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/boot.config" }}
+,{ "pid":12345, "tid":11, "ts":1779830190184313, "dur":242804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189128704, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189128704, "dur":4326, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189133034, "dur":13987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1779830189147050, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189147064, "dur":4643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1779830189151771, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1779830189151968, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189156234, "dur":11645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1779830189167943, "dur":42005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189209955, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189209965, "dur":4573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189214563, "dur":34399, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189248966, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189248974, "dur":1752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189250750, "dur":109178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189359935, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189359944, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189361889, "dur":76154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189438051, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189438062, "dur":3434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189441519, "dur":88017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189529541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189529548, "dur":3561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189533124, "dur":46782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189579913, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189579922, "dur":2598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189582537, "dur":31855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189614398, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189614409, "dur":4506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189618937, "dur":152121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189771065, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189771076, "dur":1847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189772948, "dur":144602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189917558, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830189917569, "dur":3929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830189921520, "dur":112022, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830190033580, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830190033592, "dur":12956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830190046569, "dur":378937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830190425511, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1779830190425520, "dur":1524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Nestor/Desktop/Juego2/Beat them up_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1779830190427073, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":12, "ts":1779830190427077, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1779830190430880, "dur":2013, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1779830190459669, "dur": 625, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1779830190459270, "dur": 1046, "ph": "X", "name": "Write chrome-trace events", "args": {} },

@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class MinibossDeadState : EstadoFSM
 {
+    private bool alreadyDead = false;
+
     public MinibossDeadState(FSM fsm, Animator animator)
         : base(fsm, animator)
     {
@@ -11,9 +13,21 @@ public class MinibossDeadState : EstadoFSM
     {
         base.Enter();
 
-        Debug.Log("DEAD STATE");
+        if (alreadyDead) return;
+
+        alreadyDead = true;
+
+        Debug.Log("MINIBOSS DEAD");
 
         animator.SetTrigger("dead");
+
+        // LANZAR EVENTO DE VICTORIA
+        MinibossControl.MinibossDied();
+
+        // destruir boss después de unos segundos
+        Object.Destroy(
+            animator.transform.root.gameObject,
+            3f);
     }
 
     public override void UpdateState()

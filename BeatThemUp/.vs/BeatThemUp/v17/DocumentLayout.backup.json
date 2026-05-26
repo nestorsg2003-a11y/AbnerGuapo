@@ -1,105 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Juego\\BeatThemUp\\BeatThemUp\\",
+  "WorkspaceRootPath": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|d:\\juego\\abnerguapo\\beatthemup\\assets\\scripts\\ui\\victoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\victoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossdashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossdashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossdiebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossdiebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossdiebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossdiebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|d:\\juego\\abnerguapo\\beatthemup\\assets\\scripts\\villanos\\miniboss\\minibossattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossdashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossdashstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossenterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibossenterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibossenterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibosscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibosscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibosscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibosssensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\miniboss\\minibosssensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\miniboss\\minibosssensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|d:\\juego\\beatthemup\\beatthemup\\assets\\scripts\\virtualcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\virtualcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\virtualcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|d:\\juego\\beatthemup\\beatthemup\\assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\ui\\panelcontrolui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\ui\\panelcontrolui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\panelcontrolui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\heroe\\movimientoheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\heroe\\movimientoheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heroe\\movimientoheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\enemyattackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\enemyattackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\enemyattackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\villanos\\basicenemydeathstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\villanos\\basicenemydeathstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\villanos\\basicenemydeathstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\heroe\\heroreceivehitbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\heroe\\heroreceivehitbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heroe\\heroreceivehitbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\combat zone\\cameraevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\combat zone\\cameraevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat zone\\cameraevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\combat zone\\combatzoneblockers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\combat zone\\combatzoneblockers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat zone\\combatzoneblockers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\combat zone\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\combat zone\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat zone\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\combat zone\\enemyzonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\combat zone\\enemyzonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat zone\\enemyzonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\BeatThemUp\\BeatThemUp\\assets\\scripts\\heroe\\ataqueheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|D:\\Juego\\AbnerGuapo\\BeatThemUp\\assets\\scripts\\heroe\\ataqueheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F978C0-6480-9E49-0721-E8F48FB093DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heroe\\ataqueheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,136 +114,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "VirtualCameraController.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\VirtualCameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\VirtualCameraController.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\VirtualCameraController.cs",
-              "RelativeToolTip": "Assets\\scripts\\VirtualCameraController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T06:54:24.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SceneChange.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\SceneChange.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\SceneChange.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\SceneChange.cs",
-              "RelativeToolTip": "Assets\\scripts\\SceneChange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T04:10:38.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MinibossIdleState.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossIdleState.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossIdleState.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossIdleState.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossIdleState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:51:47.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MinibossEnterState.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossEnterState.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossEnterState.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossEnterState.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossEnterState.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:51:45.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MinibossDieBehaviour.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDieBehaviour.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDieBehaviour.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDieBehaviour.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDieBehaviour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:51:43.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MinibossDeadState.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDeadState.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDeadState.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDeadState.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDeadState.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:51:40.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MinibossDashState.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDashState.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDashState.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDashState.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDashState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:51:38.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MinibossAttackState.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossAttackState.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossAttackState.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossAttackState.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossAttackState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Title": "VictoryUI.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\UI\\VictoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UI\\VictoryUI.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\UI\\VictoryUI.cs",
+              "RelativeToolTip": "Assets\\scripts\\UI\\VictoryUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:51:23.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MinibossControl.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossControl.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossControl.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossControl.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossControl.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:49:57.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BasicEnemy.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\BasicEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\BasicEnemy.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\BasicEnemy.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\BasicEnemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:28:39.453Z",
+              "WhenOpened": "2026-05-26T21:06:43.957Z",
               "EditorCaption": ""
             },
             {
@@ -248,24 +135,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MiniBossSensor.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MiniBossSensor.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MiniBossSensor.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MiniBossSensor.cs",
-              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MiniBossSensor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "VirtualCameraController.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\VirtualCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\VirtualCameraController.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\VirtualCameraController.cs",
+              "RelativeToolTip": "Assets\\scripts\\VirtualCameraController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:49:44.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T06:54:24.826Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "SceneChange.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\SceneChange.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneChange.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\SceneChange.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:10:38.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinibossIdleState.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossIdleState.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossIdleState.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:51:47.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MinibossEnterState.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossEnterState.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossEnterState.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossEnterState.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossEnterState.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:51:45.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinibossDieBehaviour.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDieBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDieBehaviour.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDieBehaviour.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDieBehaviour.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:51:43.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinibossDeadState.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDeadState.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDeadState.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDeadState.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDeadState.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:51:40.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinibossDashState.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDashState.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDashState.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossDashState.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossDashState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:51:38.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinibossAttackState.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossAttackState.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossAttackState.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:51:23.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MinibossControl.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossControl.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossControl.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MinibossControl.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MinibossControl.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:49:57.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\BasicEnemy.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\BasicEnemy.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\BasicEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:28:39.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MiniBossSensor.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MiniBossSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\MiniBoss\\MiniBossSensor.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\MiniBoss\\MiniBossSensor.cs",
+              "RelativeToolTip": "Assets\\scripts\\Villanos\\MiniBoss\\MiniBossSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:49:44.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "PanelControlUI.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\UI\\PanelControlUI.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\UI\\PanelControlUI.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\UI\\PanelControlUI.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\UI\\PanelControlUI.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\UI\\PanelControlUI.cs",
               "RelativeToolTip": "Assets\\scripts\\UI\\PanelControlUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,11 +282,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "GameOverUI.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\UI\\GameOverUI.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\UI\\GameOverUI.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\UI\\GameOverUI.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\UI\\GameOverUI.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\UI\\GameOverUI.cs",
               "RelativeToolTip": "Assets\\scripts\\UI\\GameOverUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,11 +294,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "BasicEnemyDeathState.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\BasicEnemyDeathState.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\BasicEnemyDeathState.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\BasicEnemyDeathState.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\BasicEnemyDeathState.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\BasicEnemyDeathState.cs",
               "RelativeToolTip": "Assets\\scripts\\Villanos\\BasicEnemyDeathState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,24 +306,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\Enemy.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\Enemy.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\Enemy.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\Enemy.cs",
               "RelativeToolTip": "Assets\\scripts\\Villanos\\Enemy.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAEwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:34:58.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T05:34:58.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "EnemyAttackControl.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\EnemyAttackControl.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\EnemyAttackControl.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Villanos\\EnemyAttackControl.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Villanos\\EnemyAttackControl.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Villanos\\EnemyAttackControl.cs",
               "RelativeToolTip": "Assets\\scripts\\Villanos\\EnemyAttackControl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -322,11 +330,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PlayerUI.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\UI\\PlayerUI.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\UI\\PlayerUI.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\UI\\PlayerUI.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\UI\\PlayerUI.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\UI\\PlayerUI.cs",
               "RelativeToolTip": "Assets\\scripts\\UI\\PlayerUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -334,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CameraEvents.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\combat zone\\CameraEvents.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\combat zone\\CameraEvents.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\combat zone\\CameraEvents.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\combat zone\\CameraEvents.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\combat zone\\CameraEvents.cs",
               "RelativeToolTip": "Assets\\scripts\\combat zone\\CameraEvents.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,11 +354,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CombatZoneBlockers.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\combat zone\\CombatZoneBlockers.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\combat zone\\CombatZoneBlockers.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\combat zone\\CombatZoneBlockers.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\combat zone\\CombatZoneBlockers.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\combat zone\\CombatZoneBlockers.cs",
               "RelativeToolTip": "Assets\\scripts\\combat zone\\CombatZoneBlockers.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -358,11 +366,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "EnemySpawner.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\combat zone\\EnemySpawner.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\combat zone\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\combat zone\\EnemySpawner.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\combat zone\\EnemySpawner.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\combat zone\\EnemySpawner.cs",
               "RelativeToolTip": "Assets\\scripts\\combat zone\\EnemySpawner.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,11 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MovimientoHeroe.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Heroe\\MovimientoHeroe.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Heroe\\MovimientoHeroe.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Heroe\\MovimientoHeroe.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Heroe\\MovimientoHeroe.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Heroe\\MovimientoHeroe.cs",
               "RelativeToolTip": "Assets\\scripts\\Heroe\\MovimientoHeroe.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAIwGYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,11 +390,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "EnemyZoneController.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\combat zone\\EnemyZoneController.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\combat zone\\EnemyZoneController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\combat zone\\EnemyZoneController.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\combat zone\\EnemyZoneController.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\combat zone\\EnemyZoneController.cs",
               "RelativeToolTip": "Assets\\scripts\\combat zone\\EnemyZoneController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,11 +402,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "HeroReceiveHitBehaviour.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Heroe\\HeroReceiveHitBehaviour.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Heroe\\HeroReceiveHitBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Heroe\\HeroReceiveHitBehaviour.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Heroe\\HeroReceiveHitBehaviour.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Heroe\\HeroReceiveHitBehaviour.cs",
               "RelativeToolTip": "Assets\\scripts\\Heroe\\HeroReceiveHitBehaviour.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -406,11 +414,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AtaqueHeroe.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Heroe\\AtaqueHeroe.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Heroe\\AtaqueHeroe.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Heroe\\AtaqueHeroe.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\Heroe\\AtaqueHeroe.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\Heroe\\AtaqueHeroe.cs",
               "RelativeToolTip": "Assets\\scripts\\Heroe\\AtaqueHeroe.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAQwFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -418,11 +426,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HealthSystem.cs",
-              "DocumentMoniker": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\HealthSystem.cs",
+              "DocumentMoniker": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\HealthSystem.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\HealthSystem.cs",
-              "ToolTip": "D:\\Juego\\BeatThemUp\\BeatThemUp\\Assets\\scripts\\HealthSystem.cs",
+              "ToolTip": "D:\\Juego\\AbnerGuapo\\BeatThemUp\\Assets\\scripts\\HealthSystem.cs",
               "RelativeToolTip": "Assets\\scripts\\HealthSystem.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
